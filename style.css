@@ -67,11 +67,7 @@ p{
 	font-size: 20px;
 }
 .container{
-	width: 800px;
-	margin: 0 auto ;
-}
-.container1{
-	width: 1350px;
+	width: 1200px;
 	margin: 0 auto ;
 }
 .pt-3{
@@ -126,12 +122,7 @@ p{
 	color:#fff
 }
 .skill{
-	width:800px;
-	margin: 0 auto;
-	padding-bottom: 16px;
-}
-.skill1{
-	width:1000px;
+	width:996px;
 	margin: 0 auto;
 	padding-bottom: 16px;
 }
@@ -164,4 +155,5 @@ p{
 	margin-bottom: 16px;
 }
 .method li img{
-	padding-right: 10px;}
+	padding-right: 10px;
+}
